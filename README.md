@@ -83,5 +83,9 @@ Bu projede yer almak, gerçek dünya uygulamalarında kod görü şekilleri, com
 
 Frontend Developer (Junior)
 
+🛡️ **Disclaimer**  
+Bu proje, şirkete ait dahili bir sistemin parçasıdır.
+Tüm kaynak kodu ve proje herkese açık değildir.
+Bu depo ve README dosyası, geliştirme sürecinde edindiğim kişisel katkıları ve deneyimi göstermek amacıyla oluşturulmuştur; herhangi bir gizli veya özel bilgi paylaşılmamaktadır.
 
 
